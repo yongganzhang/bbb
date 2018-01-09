@@ -1,1 +1,3 @@
-手动阀发
+public  class hello {
+	
+}
